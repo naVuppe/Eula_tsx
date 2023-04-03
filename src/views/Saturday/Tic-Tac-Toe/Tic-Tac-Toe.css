@@ -1,0 +1,11 @@
+.square{
+    width: 50px;
+    height: 50px;
+}
+.test{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    flex-wrap: wrap;
+    font-size: 26px;
+}
